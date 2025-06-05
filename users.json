@@ -5,5 +5,12 @@
     "password": "MTIz",
     "name": "Owner Satu",
     "role": "OWNER"
+  },
+  {
+    "name": "tes",
+    "username": "tes",
+    "phone": "62831567715331",
+    "password": "MTIz",
+    "role": "BUYER"
   }
 ]
