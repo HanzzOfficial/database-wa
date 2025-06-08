@@ -25,5 +25,16 @@
     "password": "MTIz",
     "role": "BUYER",
     "addedNumbersCount": 0
+  },
+  {
+    "name": "GasPoll Owner",
+    "username": "GasPoll",
+    "phone": "6285704287628",
+    "password": "VWRpbjEyMzQ=",
+    "role": "OWNER",
+    "addedNumbersCount": 0,
+    "personalWhatsappLink": "",
+    "groupWhatsappLink": "",
+    "mediafireDownloadLink": ""
   }
 ]
