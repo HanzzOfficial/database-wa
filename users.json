@@ -17,5 +17,13 @@
     "password": "U1VMRkkgQU5TWUEx",
     "role": "BUYER",
     "addedNumbersCount": 0
+  },
+  {
+    "name": "KONTEN",
+    "username": "Konte",
+    "phone": "12345678",
+    "password": "MTIz",
+    "role": "BUYER",
+    "addedNumbersCount": 0
   }
 ]
