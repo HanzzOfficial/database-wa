@@ -25,5 +25,13 @@
     "password": "MTIz",
     "role": "BUYER",
     "addedNumbersCount": 0
+  },
+  {
+    "name": "KONTEN 2",
+    "username": "konten",
+    "phone": "12345789",
+    "password": "MTIz",
+    "role": "RESELLER",
+    "addedNumbersCount": 0
   }
 ]
